@@ -13,6 +13,6 @@ title: gallery
 subtitle:
 
 content: 
-  gallery album="albums" 
+{{< gallery album="example" >}}
 ---
 

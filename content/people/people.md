@@ -12,6 +12,5 @@ weight: 68
 title: gallery
 subtitle:
 
-content:
- {{< gallery album="albums" >}}
+content: gallery album="albums"
 ---

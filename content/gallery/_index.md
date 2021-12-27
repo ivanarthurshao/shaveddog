@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Gallery
 
 # View.
 #   1 = List
@@ -8,6 +8,5 @@ title: Recent & Upcoming Events
 view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header:
   image: ""
 ---

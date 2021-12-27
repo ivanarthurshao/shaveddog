@@ -13,5 +13,5 @@ title: gallery
 subtitle:
 
 content: 
-  {{< gallery album="<ALBUM-FOLDER>" >}}
+  gallery album="albums" 
 ---
